@@ -6,17 +6,15 @@ A collection of **Data Structures and Algorithms implementations and problem-sol
 
 * Generics & Java Collections Framework
 * Arrays
-* Hashing & Maps
-* Strings
-* Sorting
-* Searching
-* Linked Lists
-* Stacks & Queues
-* Trees
+* Linked List
+* Stack & Queues
+* Trees + BST
 * Heaps
 * Graphs
-* Recursion
-* Dynamic Programming
+* Map + Set + Java I/O
+* Searching
+* Sorting
+* Strings + Utilities
 
 ## 🎯 Goals
 
