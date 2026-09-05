@@ -18,7 +18,7 @@ public class GenericBox{
         System.out.println("Integer : "+intBox.getValue());
 
         Box<String> strBox=new Box<>();
-        strBox.setValue("Sathvik");
+        strBox.setValue("Sathvik T");
         System.out.println("String : "+strBox.getValue());
     }
 }
