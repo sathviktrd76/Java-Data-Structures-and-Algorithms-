@@ -11,7 +11,7 @@ public class GenericMaximumArray{
     }
 
     public static void main(String[] args){
-        Integer numbers[]={10,20,30,40,50,60};
+        Integer numbers[]={10,20,30,40,50,60,70};
         Integer result=maximum(numbers);
         System.out.println("Maximum : "+result);
     }
