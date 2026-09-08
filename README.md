@@ -26,9 +26,7 @@ A structured collection of **Data Structures and Algorithms implementations and 
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github" />
-</p>
+**Java • Git • GitHub**
 
 ## 📈 Progress
 
