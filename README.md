@@ -26,7 +26,9 @@ A structured collection of **Data Structures and Algorithms implementations and 
 
 ## 🛠️ Tech Stack
 
-**Java • Git • GitHub**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📈 Progress
 
